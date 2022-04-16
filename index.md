@@ -4,7 +4,7 @@ I am a DevOps Engineer with 9+ years of experience in application development an
 
 ### Here are some of my projects:
 - [26 Miler - Alexa Skill](https://www.amazon.com/dp/B09WDM5P4L)
-- [26 Miler](https://26miler.github.io/)
+- [26 Miler - HomePage](https://26miler.github.io/)
 - [CICD using GitOps with ArgoCD, Jenkins, Kubernetes, SpringBoot web application](https://github.com/shobhans/cicd_gitops_k8s)
 
 ### Certifications
