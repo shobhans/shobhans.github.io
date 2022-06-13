@@ -1,6 +1,6 @@
 ### 👋 Hi! this is Shobhan.
 
-I am a DevOps Engineer with 9+ years of experience in application development and deployment automation of critical application & production grade infrastructure. I love to design solutions using cloud-native tools such as, Kubernetes, Terraform, Jenkins and Ansible. I am experienced in the development of REST API and web applications based on Java, Spring and Oracle RDBMS. Currently, I am working as a Senior Consultant at CGI.
+I am a DevOps Engineer with 9+ years of experience in application development and deployment automation of critical application & production grade infrastructure. I love to design solutions using cloud-native tools such as, Kubernetes, Terraform, Jenkins and Ansible. I am experienced in the development of REST API and web applications based on Java, Spring and Oracle RDBMS. Currently, I am working with the Cloud Engineering Team at Avast as a DevOps Engineer.
 
 ### Here are some of my personal projects
 - Twenty Six Miler (26 Miler)-Helps users to track Strava work-out details) - [Alexa Skill Store](https://www.amazon.ca/dp/B09WDM5P4L) - [Website](https://26miler.github.io/)
