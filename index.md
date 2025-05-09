@@ -1,6 +1,15 @@
 ### 👋 Hi! this is Shobhan.
 
-I am a DevOps Engineer with 9+ years of experience in application development and deployment automation of critical application & production grade infrastructure. I love to design solutions using cloud-native tools such as, Kubernetes, Terraform, Jenkins and Ansible. I am experienced in the development of REST API and web applications based on Java, Spring and Oracle RDBMS. Currently, I am working with the Cloud Engineering Team at Avast as a DevOps Engineer.
+Site Reliability Engineer | DevOps Specialist
+
+With over 10 years of experience in software engineering and infrastructure automation, I specialize in designing and implementing scalable, resilient systems using cloud-native technologies. I have a strong background in automating application deployment and managing production-grade infrastructure, with hands-on expertise for leveraging tools like Kubernetes, Terraform, ArgoCD, GitLab, and Ansible to streamline operations and ensure system reliability.
+
+Currently part of the Engineering team at GEN (formerly Norton), I lead initiatives in cloud infrastructure architecture and DevOps best practices on my current projects. My recent work includes provisioning and maintaining mission-critical cloud infrastructure that supports:
+
+* 150M+ yearly authentications for the Interac Sign-In service
+* 400K+ monthly transactions for the Interac Verification Service, serving key partners such as the Canada Revenue Agency and Costco
+
+In addition to DevOps and SRE responsibilities, I am adept in backend development, particularly building RESTful APIs and web applications using Java, Spring Framework, and Oracle RDBMS.
 
 ### Here are some of my personal projects
 - Twenty Six Miler (26 Miler)-Helps users to track Strava work-out details) - [Alexa Skill Store](https://www.amazon.ca/dp/B09WDM5P4L) - [Website](https://26miler.github.io/)
