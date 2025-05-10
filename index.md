@@ -1,15 +1,13 @@
-### 👋 Hi! this is Shobhan.
+### 👋 Hi! this is Shobhan. My domains are Site Reliability Engineering and DevOps.
 
-Site Reliability Engineer | DevOps Specialist
+With over 12 years of experience in software engineering field, I specialize in designing and implementing scalable, highly available, resilient systems using cloud-native technologies. I have a strong background in automating application deployment, implementing DevSecOps best practices and provisioning production-grade infrastructure, with hands-on expertise for leveraging tools like Kubernetes, Terraform, ArgoCD, GitLab and Ansible to streamline operations and maximize development efficiency.
 
-With over 10 years of experience in software engineering and infrastructure automation, I specialize in designing and implementing scalable, resilient systems using cloud-native technologies. I have a strong background in automating application deployment and managing production-grade infrastructure, with hands-on expertise for leveraging tools like Kubernetes, Terraform, ArgoCD, GitLab, and Ansible to streamline operations and ensure system reliability.
-
-Currently part of the Engineering team at GEN (formerly Norton), I lead initiatives in cloud infrastructure architecture and DevOps best practices on my current projects. My recent work includes provisioning and maintaining mission-critical cloud infrastructure that supports:
+Currently I am a member of the Engineering team at GEN (formerly Norton). My recent projects include provisioning and maintaining mission-critical cloud infrastructure that supports:
 
 * 150M+ yearly authentications for the Interac Sign-In service
 * 400K+ monthly transactions for the Interac Verification Service, serving key partners such as the Canada Revenue Agency and Costco
 
-In addition to DevOps and SRE responsibilities, I am adept in backend development, particularly building RESTful APIs and web applications using Java, Spring Framework, and Oracle RDBMS.
+In addition to DevOps and SRE experience, I am adept in backend development, particularly building RESTful APIs and web applications using Java, Spring Framework, and Oracle RDBMS.
 
 ### Here are some of my personal projects
 - Twenty Six Miler (26 Miler)-Helps users to track Strava work-out details) - [Alexa Skill Store](https://www.amazon.ca/dp/B09WDM5P4L) - [Website](https://26miler.github.io/)
